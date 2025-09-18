@@ -4,7 +4,7 @@ This repository contains a practical demonstration that P=NP by providing polyno
 
 ## Live Demo
 
-Try the live demo: [P=NP Demonstration](https://copweddinglord.github.io/p-equals-np-demo-/index.html)
+Try the live demo: [P=NP Demonstration](https://copweddinglord.github.io/p-equals-np-demo-)
 
 ## What This Proves
 
