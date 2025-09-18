@@ -2,7 +2,7 @@
 
 This repository contains a practical demonstration that P=NP by providing polynomial-time solutions to classic NP-complete problems.
 
-## [Click here to run the live demonstration](https://copweddinglord.github.io/p-equals-np-demo-/)
+## [Click here to run the live demonstration]([https://copweddinglord.github.io/p-equals-np-demo-/](https://68cc0e0755b421276e6f2055--musical-chimera-ffd880.netlify.app/))
 
 ## What This Demonstrates
 
