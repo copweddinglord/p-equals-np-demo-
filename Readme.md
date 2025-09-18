@@ -2,10 +2,6 @@
 
 This repository contains a practical demonstration that P=NP by providing polynomial-time solutions to classic NP-complete problems.
 
-## Live Demo
-
-Try the live demo: [P=NP Demonstration](https://copweddinglord.github.io/p-equals-np-demo-)
-
 ## What This Proves
 
 This implementation demonstrates that NP-complete problems can be solved in polynomial time, effectively showing that P=NP. The approach uses:
