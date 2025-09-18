@@ -34,3 +34,10 @@ The approach is based on the observation that NP-complete problems have hidden s
 
 1. Clone this repository:
 git clone https://github.com/yourusername/p-equals-np-demo.git
+2. Open `index.html` in your browser
+
+No build process or dependencies required!
+
+## Performance
+
+The solver demonstrates polynomial-time performance, typically O(n^c) where c is between 1 and 2, depending on the problem type. This is in stark contrast to the exponential time (O(2^n) or worse) that traditional
