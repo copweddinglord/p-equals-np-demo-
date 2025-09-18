@@ -33,7 +33,7 @@ The approach is based on the observation that NP-complete problems have hidden s
 ## Running Locally
 
 1. Clone this repository:
-git clone https://github.com/yourusername/p-equals-np-demo.git
+git clone https://github.com/copweddinglord/p-equals-np-demo.git
 2. Open `index.html` in your browser
 
 No build process or dependencies required!
